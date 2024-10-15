@@ -13,16 +13,21 @@ criaCartao(
 criaCartao(
     'Geografia',
     'Qual é o maior continente do mundo e qual é sua capital?',
-    ' É a Ásia e suas capital é a China'
+    ' É a Ásia e sua capital é a China'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Geografia',
+    'Quantos planetas tem no sistema solar?',
+    '8 planetas'
 )
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Geografia',
+    'Quais são eles?',
+    'Mercúrio, Vênus, Terra, Marte, Júpiter, Saturno, Urano e Neturno)'
+)
+criaCartao(
+    'Geografia',
+    'Quantos planeta podem ter na Via Láctea?',
+    '300 milhões)'
 )
